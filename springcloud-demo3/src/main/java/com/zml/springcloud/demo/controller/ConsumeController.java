@@ -22,8 +22,13 @@ public class ConsumeController {
 
     @Autowired
     private ConsumerService consumerService;
+
     @RequestMapping(value = "/add", method = RequestMethod.GET)
     public String add() {
         return consumerService.add();
+    }
+    @RequestMapping(value = "/add2", method = RequestMethod.GET)
+    public String add2() {
+        return consumerService.add2();
     }
 }
