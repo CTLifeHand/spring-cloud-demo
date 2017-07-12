@@ -1,0 +1,9 @@
+#注册中心peer1
+spring.application.name=eureka-server
+eureka.instance.hostname=peer1
+server.port=1111
+#禁用自身注册为客户端
+#eureka.client.register-with-eureka=false
+#eureka.client.fetch-registry=false
+eureka.client.serviceUrl.defaultZone=http://peer2:1112/eureka/,http://peer4:1114/eureka/
+management.security.enabled=false

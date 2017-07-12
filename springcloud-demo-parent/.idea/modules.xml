@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-config-server/springcloud-demo-config-server.iml" filepath="$PROJECT_DIR$/springcloud-demo-config-server/springcloud-demo-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-eurekaserver/springcloud-demo-eurekaserver.iml" filepath="$PROJECT_DIR$/springcloud-demo-eurekaserver/springcloud-demo-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-gateway/springcloud-demo-gateway.iml" filepath="$PROJECT_DIR$/springcloud-demo-gateway/springcloud-demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-openservice-a/springcloud-demo-openservice-a.iml" filepath="$PROJECT_DIR$/springcloud-demo-openservice-a/springcloud-demo-openservice-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-openservice-a-2/springcloud-demo-openservice-a-2.iml" filepath="$PROJECT_DIR$/springcloud-demo-openservice-a-2/springcloud-demo-openservice-a-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-openservice-b/springcloud-demo-openservice-b.iml" filepath="$PROJECT_DIR$/springcloud-demo-openservice-b/springcloud-demo-openservice-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-parent.iml" filepath="$PROJECT_DIR$/springcloud-demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo-service-a/springcloud-demo-service-a.iml" filepath="$PROJECT_DIR$/springcloud-demo-service-a/springcloud-demo-service-a.iml" />
+    </modules>
+  </component>
+</project>

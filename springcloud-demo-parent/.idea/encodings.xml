@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-openservice-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-openservice-a-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-openservice-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-demo-service-a" charset="UTF-8" />
+  </component>
+</project>
