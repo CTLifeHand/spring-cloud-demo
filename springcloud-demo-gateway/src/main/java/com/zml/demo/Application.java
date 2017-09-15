@@ -13,15 +13,15 @@ import org.springframework.context.annotation.Bean;
  * Time: 18:20
  * To change this template use File | Settings | File Templates.
  */
-@EnableZuulProxy
-@SpringCloudApplication
-public class Application {
-    public static void main(String[] args) {
-        new SpringApplicationBuilder(Application.class).web(true).run(args);
-    }
+    @EnableZuulProxy
+    @SpringCloudApplication
+    public class Application {
+        public static void main(String[] args) {
+            new SpringApplicationBuilder(Application.class).web(true).run(args);
+        }
 
-    @Bean
-    public AccessFilter accessFilter(){
-        return new AccessFilter();
+        @Bean
+        public AccessFilter accessFilter(){
+            return new AccessFilter();
+        }
     }
-}
